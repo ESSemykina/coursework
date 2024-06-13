@@ -1,0 +1,12 @@
+C:\Users\Katya\source\repos\coursework\coursework\obj\Debug\coursework.csproj.AssemblyReference.cache
+C:\Users\Katya\source\repos\coursework\coursework\obj\Debug\coursework.LoginForm.resources
+C:\Users\Katya\source\repos\coursework\coursework\obj\Debug\coursework.Properties.Resources.resources
+C:\Users\Katya\source\repos\coursework\coursework\obj\Debug\coursework.csproj.GenerateResource.cache
+C:\Users\Katya\source\repos\coursework\coursework\obj\Debug\coursework.csproj.CoreCompileInputs.cache
+C:\Users\Katya\source\repos\coursework\coursework\bin\Debug\coursework.exe.config
+C:\Users\Katya\source\repos\coursework\coursework\bin\Debug\coursework.exe
+C:\Users\Katya\source\repos\coursework\coursework\bin\Debug\coursework.pdb
+C:\Users\Katya\source\repos\coursework\coursework\obj\Debug\coursework.exe
+C:\Users\Katya\source\repos\coursework\coursework\obj\Debug\coursework.pdb
+C:\Users\Katya\source\repos\coursework\coursework\obj\Debug\coursework.RegisterForm.resources
+C:\Users\Katya\source\repos\coursework\coursework\obj\Debug\coursework.TrainsForm.resources
